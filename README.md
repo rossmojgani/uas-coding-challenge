@@ -1,7 +1,7 @@
 # uas-coding-challenge
 Coding challenge for UBC Unmanned Aircraft Systems
 
-#### GPS Speed Challenge (B-GPS-0)
+#### GPS Speed Challenge
 You are tasked with making an application that computes the speed of an object (aircraft) given a series of GPS coordinates. Your application should be made of two programs: One program serves the GPS coordinates, and the other receives the coordinates and calculates the speed. You can use whatever method you would like for the serving (REST, serial, TCP serial, websockets, etc.). Use C++ or Python 3. 
 
 Rules:
